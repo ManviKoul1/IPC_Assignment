@@ -1,3 +1,8 @@
+/*1.write a program that creates a shared memory region and displays shared memory id and also
+print address at which shared area in this process starts from.*/
+
+
+
 #include<stdio.h>
 #include<sys/ipc.h>
 #include<sys/shm.h>
